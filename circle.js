@@ -14,6 +14,6 @@ calcArea(){
     }
 }
 const circle=new Circle(40);
-console.log(circle.calcArea());
+console.log(u circle.calcArea());
 console.log(circle.calcPerimeter());
-console.log(circle.calcDiameter())
+console.log(circle.calcDiameter());
